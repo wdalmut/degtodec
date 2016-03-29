@@ -1,0 +1,21 @@
+{
+  "name": "dmstodec",
+  "version": "1.0.0",
+  "description": "dms to dec",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./*_spec.js"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "author": "Walter Dal Mut <walter.dalmut@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wdalmut/degtodec.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
